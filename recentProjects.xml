@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/allup_1_0" />
+        <option value="$USER_HOME$/AndroidStudioProjects/JakDanieldojedzie" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Przystanki" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/allup_1_0" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/allup_1_0" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/JakDanieldojedzie">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539195589950" />
+              <option name="buildTimestamp" value="1523654873661" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527146727366" />
+              <option name="buildTimestamp" value="1523654864204" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Przystanki">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527151674708" />
+              <option name="buildTimestamp" value="1523654865851" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/allup_1_0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539347245037" />
+              <option name="buildTimestamp" value="1523654873661" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>
